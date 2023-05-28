@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9c46b478cc1475642b46593aff267394
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mint Spirit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b6d8734967b34840a4b34b77a094299, type: 3}
+  - {fileID: 12800000, guid: 95dca9b2b0d25134bb081f55929ecfad, type: 3}
+  - {fileID: 12800000, guid: 25dcec3615d40f7449570a8a8fe8bada, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
